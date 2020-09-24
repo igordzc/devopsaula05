@@ -1,5 +1,6 @@
 language: python
-python:
+python: 
   - "3.4"
-  script:
+script:
     - cd src; python testes.py
+
